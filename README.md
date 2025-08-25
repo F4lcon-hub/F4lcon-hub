@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou Falcon
 
-<!--
-**F4lcon-hub/F4lcon-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um **`desenvolvedor júnior`** em crescimento, com foco em **JavaScript, TypeScript e Python**, 
+Tenho interesse em construir aplicações eficientes, seguras e bem estruturadas, aliando **boas práticas de programação** com a busca por **soluções criativas**.  
+- 💼 Atualmente trabalhando em projetos pessoais e colaborativos, explorando desde a criação de interfaces modernas em frontend até a construção de sistemas robustos e escaláveis no backend.
+- 🌱 Aprendendo mais sobre: **Python e SQL**  
+- 🎯 Objetivo: evoluir como desenvolvedor **FullStack**
+
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat&logo=w3c&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=F4lcon-hub&show_icons=&theme=radical)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=F4lcon-hub&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Onde me encontrar
+- 📧 Email: **delf040603@gmail.com**  
+- 🎮 Discord: f4lconn_
+
+---
+
+
