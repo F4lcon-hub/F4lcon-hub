@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Falcon
+# 👋 Olá, eu sou Enzo L. Delfino 
 
 
 
@@ -8,6 +8,7 @@ Tenho interesse em construir aplicações eficientes, seguras e bem estruturadas
 - 💼 Atualmente trabalhando em projetos pessoais e colaborativos, explorando desde a criação de interfaces modernas em frontend até a construção de sistemas robustos e escaláveis no backend.
 - 🌱 Aprendendo mais sobre: **Python e SQL**  
 - 🎯 Objetivo: evoluir como desenvolvedor **FullStack**
+- 🤖 Pseudônimo: utilizo Falcon como um nome alternativo para a internet
 
 
 ---
