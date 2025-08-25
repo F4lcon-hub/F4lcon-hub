@@ -26,9 +26,11 @@ Tenho interesse em construir aplicações eficientes, seguras e bem estruturadas
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=F4lcon-hub&show_icons=&theme=radical)  
+## 📊 Estatísticas do GitHub  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=F4lcon-hub&layout=compact&theme=radical)  
+| ![Falcon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F4lcon-hub&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4lcon-hub&layout=compact&theme=radical) |
+|---|---|
+
 
 ---
 
