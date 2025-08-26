@@ -40,6 +40,7 @@ Tenho interesse em construir aplicações eficientes, seguras e bem estruturadas
 ## 🌐 Onde me encontrar
 - 📧 Email: **delf040603@gmail.com**  
 - 🎮 Discord: f4lconn_
+- ✖ Twitter: https://x.com/F4lcon_dev
 
 ---
 
